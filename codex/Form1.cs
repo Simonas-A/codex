@@ -12,9 +12,18 @@ using System.Net.Http.Headers;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json;
 
+/* most of the code is written for demonstration purposes only
+ * there are a lot of things to keep in mind when doing real project
+ * 
+ * Real Smart Id api seems to be available for businesses only
+ * therefore this sample project uses demo version of smart id
+ * 
+ */
+
+
 namespace codex
 {
-    public partial class Form1 : Form
+    public partial class Form1 : Form 
     {
         public Form1()
         {
