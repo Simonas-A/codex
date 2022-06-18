@@ -1,0 +1,13 @@
+C:\Users\Simonas\source\repos\codex\codex\bin\Debug\codex.exe.config
+C:\Users\Simonas\source\repos\codex\codex\bin\Debug\codex.exe
+C:\Users\Simonas\source\repos\codex\codex\bin\Debug\codex.pdb
+C:\Users\Simonas\source\repos\codex\codex\obj\Debug\codex.Form1.resources
+C:\Users\Simonas\source\repos\codex\codex\obj\Debug\codex.Properties.Resources.resources
+C:\Users\Simonas\source\repos\codex\codex\obj\Debug\codex.csproj.GenerateResource.cache
+C:\Users\Simonas\source\repos\codex\codex\obj\Debug\codex.csproj.CoreCompileInputs.cache
+C:\Users\Simonas\source\repos\codex\codex\obj\Debug\codex.exe
+C:\Users\Simonas\source\repos\codex\codex\obj\Debug\codex.pdb
+C:\Users\Simonas\source\repos\codex\codex\obj\Debug\codex.csproj.AssemblyReference.cache
+C:\Users\Simonas\source\repos\codex\codex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Simonas\source\repos\codex\codex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Simonas\source\repos\codex\codex\obj\Debug\codex.csproj.CopyComplete
